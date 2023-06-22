@@ -4,7 +4,7 @@ try {
 //await m.reply(`╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯ *(♦️)*PON EL TEXTO DEL AUDIO QUE QUIERES REPRODUCIR*\n︎╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯ *(♦️)*PUT THE TEXT OF THE AUDIO YOU WANT TO PLAY*\n︎╰───────────────╯`)
 let pp = imagen6
 //let vn = './Plugins/Audios/menu.mp3'
-let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
+let img = await(await fetch('https://imgur.com/a/Z2X0lCN.jpg')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -18,61 +18,32 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
-│➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
-│➯ **Número*➟5212412377467
-│➯ **canal-YouTube*
-│➯ *https://youtube.com/@hades_bot2391
-│➯ *ғᴇᴄʜᴀ:➟${date}
-│➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-│➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙰𝙻𝙴𝙸𝚉𝙽」
+│🍁 *𝙷𝙾𝙻𝙰 𝚀𝚄𝙴 𝚃𝙰𝙻-${taguser}
+│🍁 **𝙴𝚂𝚃𝙴 𝙴𝚂 𝙼𝙸 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙲𝙾𝙽𝚂𝚄𝙻𝚃𝙰𝚂:51992621601*
+│🍁 *𝚃𝙴𝙽𝙶𝙾 𝙳𝙸𝙵𝙴𝚁𝙴𝙽𝚃𝙴𝚂 𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙿𝙰𝚁𝙰 𝙼𝙸𝚂 𝙱𝙾𝚃𝙲𝙸𝚃𝙾𝚂
 ︎╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥ *INFO*➻❥」
-│➯ *INSTALACIÓN*
+🍁᭢━━━━━ALEIZN-MD━━━━᭥🍁᭢
+╭「𝐏𝐀𝐐𝐔𝐄𝐓𝐄 𝐃𝐄 𝐁𝐎𝐓𝐒 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐃𝐎𝐑」
+│-𝙿𝙰𝚁𝙰 𝙴𝚂𝚃𝙴 𝙱𝙾𝚃 𝚃𝙴𝙽𝙶𝙾 𝙴𝙻 𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃𝙴- 𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾- 𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾𝚂-𝙱𝙾𝚃 𝙿𝙻𝚄𝚂
+│😼𝙱𝙾𝚃 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃𝙴:  Este bot lleva una personalizacion del creador es permanente y no tiene limite de grupos y te enseño a programarlo y aque tu mismo lo pongas en un numero
+│😼𝙱𝙾𝚃 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻𝙸𝚉𝙰𝙳𝙾:  Este vendria ser un bot permanente de igual manera pero con lleva una personalizacion DE TU CLAN O TEAM O COMUNIDAD O E-SPORT Sin limite de grupos
+│😼𝙱𝙾𝚃 𝙿𝚁𝙾𝙿𝙸𝙾:  Este es un bot con permiso de venta aclaro que este bot es el unico que puede ser vendido y lleva la personalizacion que tu quieras mas veloz y sin limite de grupos
+│😼𝙱𝙾𝚃 𝙸𝚉𝙽:  Este es un nuevo bot mejor lanzado sus beneficios son. Personalizacion tuya o la que quieras - La info de creador lleva directo tu numero y nombre - Lleva mas de 3 Etiquetas
+│Diferentes diseños o diferentes nombres si deseas - Super Rapidez - Y te enseño como lograr que ande conectado sin necesidad de tener internet ni termux en momentos de emergencia
 ╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥ *APK-TERMUX* ➻❥」
-│➯ https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98
+╭「𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐃𝐄 𝐁𝐎𝐓𝐂𝐈𝐓𝐎𝐒 𝐏𝐀𝐑𝐀 𝐆𝐑𝐔𝐏𝐎𝐒」
+│💌BOT MENSUAL : Este bot es unido a 3 grupos mediante a link por todo 1 MES
+│💌BOT TRIMESTRAL : Este Bot es unido a 4 grupos mediante a link por 3 MESES
+│💌BOT PERMANENTE : Bot unido a 3 grupos mediante a links de forma permanente(No me hago responsable si sacan al bot del grupo)
+│💌BOT PERMANENTE PLUS :Bot unido a 5 grupos mediante a links de forma permanente(No me hago responsable si sacan al bot del grupo)
 ╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥Número para ayuda➻❥」
-│➯Wa.me/5212412377467
-╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥ *📽️tutorial* ➻❥」
-│➯https://youtu.be/AtI8nyBWrZk
-╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇➻❥」
-│➯opción 1 estos comandos son para los que no pudieron hacer con los comandos normales estos comandos lo van a instalar solito 
-│➯termux-setup-storage
-│➯pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn
-│➯wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HADES-BOT-OMEGA/master/install.sh | bash
-╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇➻❥」
-│➯*opción 2 de instalación"
-│➯cd && termux-setup-storage
-│➯apt-get update -y && apt-get upgrade -y
-│➯pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-│➯git clone https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git && cd HADES-BOT-OMEGA
-│➯yarn 
-│➯npm install
-│➯npm update
-│➯npm start
-╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥ *ACTIVAR* ➻❥」
-│➯cd HADES-BOT-OMEGA
-│➯npm start
-╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥ *pide otro código* ➻❥」
-│➯cd HADES-BOT-OMEGA
-│➯rm -rf Session-activa
-│➯npm start
+╭「𝐀𝐂𝐋𝐀𝐑𝐀𝐂𝐈𝐎𝐍𝐄𝐒」
+│🤖NO HAGO VIDA SOCIAL AL PRIVD
+│🤖NO HAGO REMBOLSOS SI NO ESTAS SEGUR@ DE COMPRAR ALGO NO LO HAGAS
+│🤖NO INTERCAMBIO PAQUETE DE BOTS PROGRAMADOR POR PAQUETE DE BOTS UNIDOS POR LINKS
+│🤖NO REGALO NADA, SOLO HAGO DESCUENTOS ALOS QUE YA AN SIDO CLIENTES O SI COMPRAN MAS COSAS
+╭🤖EL BOT PERMANENTE - BOT PERSONALIZADO TIENE PROHIBIDA SU VENTA
 ╰───────────────╯`.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
@@ -85,7 +56,7 @@ conn.sendMessage(m.chat, { image: pp, caption: str.trim(), mentions: [...str.mat
 } catch {
 conn.reply(m.chat, '*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙼𝙴𝙽𝚄 𝚃𝙸𝙴𝙽𝙴 𝚄𝙽 𝙴𝚁𝚁𝙾𝚁 𝚈 𝙽𝙾 𝙵𝚄𝙴 𝙿𝙾𝚂𝙸𝙱𝙻𝙴 𝙴𝙽𝚅𝙸𝙰𝚁𝙻𝙾, 𝚁𝙴𝙿𝙾𝚁𝚃𝙴𝙻𝙾 𝙰𝙻 𝙿𝚁𝙾𝙿𝙸𝙴𝚃𝙰𝚁𝙸𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃*', m)
 }}
-handler.command = /^(instalarbot|Lnstalarbot)$/i
+handler.command = /^(informacion|quierobot|aleinfo)$/i
 handler.exp = 50
 handler.register = true
 handler.fail = null
