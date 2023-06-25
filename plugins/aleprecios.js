@@ -39,7 +39,7 @@ let str = `╭「𝙿𝚁𝙴𝙲𝙸𝙾𝚂 𝙳𝙴 𝙰𝙻𝙴𝙸𝚉𝙽�
 │💌BOT MENSUAL : 🇵🇪5 Yape 🇦🇷 500 CBU 🇨🇱 1500 Ctu Rut 🇧🇴Tigo 12  💎 200
 │💌BOT TRIMESTRAL : 🇵🇪15 Yape 🇦🇷 1500 CBU 🇨🇱 4500 Ctu Rut 🇧🇴Tigo 36  💎 500
 │💌BOT PERMANENTE : 🇵🇪20 Yape🇨🇱6000 Ctu Rut 🇦🇷2000 Cbu🇧🇴Tigo 39🇲🇽150 MX🇨🇴26000💎700
-│💌BOT PERMANENTE PLUS :🇵🇪25 Yape🇨🇱7000 Ctu Rut 🇦🇷2500 Cbu🇧🇴Tigo 50🇲🇽1800 MX🇨🇴35000💎800
+│💌BOT PERMANENTE PLUS :🇵🇪25 Yape🇨🇱7000 Ctu Rut 🇦🇷2500 Cbu🇧🇴Tigo 50🇲🇽180 MX🇨🇴35000💎800
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「𝐀𝐂𝐋𝐀𝐑𝐀𝐂𝐈𝐎𝐍𝐄𝐒」
